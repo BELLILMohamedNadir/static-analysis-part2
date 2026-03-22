@@ -1,4 +1,4 @@
-# 📊 TP1 & TP2 - Analyse Statique de Code Java
+# 📊 Analyse Statique de Code Java Part 1
 
 > Suite complète d'outils d'analyse statique avec Eclipse JDT et Spoon + Interfaces JavaFX modernes
 
