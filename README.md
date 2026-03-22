@@ -1,4 +1,4 @@
-# 📊 Analyse Statique de Code Java Part 1
+# 📊 Analyse Statique de Code Java Part 2
 
 > Suite complète d'outils d'analyse statique avec Eclipse JDT et Spoon + Interfaces JavaFX modernes
 
